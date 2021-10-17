@@ -75,7 +75,7 @@ let s:shade_hl_defaults = {
     \ }
 
 let s:shade_hl_line_defaults = {
-    \   'gui'     : ['red' , '#FFFFFF' , 'NONE']
+    \   'gui'     : ['red' , '#777777' , 'NONE']
     \ , 'cterm256': ['red' , '242'     , 'NONE']
     \ , 'cterm'   : ['red' , 'grey'    , 'NONE']
     \ }
